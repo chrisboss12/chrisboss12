@@ -3,13 +3,14 @@
 I am a passionate and dedicated software developer with experience in various programming languages and technologies. I have a Bachelor's degree in Computing with a focus on Cloud Computing. My coursework and projects have given me a strong foundation in areas such as concurrent and distributed programming, mobile development, software engineering, and more. Currently, I am pursuing a Master of Science in Computer Science with a major in Artificial Intelligence.
 
 - # Skills
-- Programming Languages: Java, C, C#, PHP, JavaScript, TypeScript, Python, R, HTML, CSS, XML.
-- Frameworks: ExpressJS, AngularJS, NodeJS, and Bootstrap.
+- Programming Languages: Java, C, C#, PHP, JavaScript, Express, Angular, TypeScript, Python, R, HTML, CSS, XML.
+- Frameworks: NodeJS, Bootstrap, Ionic, Maven, Ant.
 - Databases: MySQL, Cloud Firestore, Oracle.
 - Cloud Services: Microsoft Azure, Amazon Web Services, Google Firebase, Google Cloud Platform.
 - Tools: Docker, Visual Studio, Visual Studio Code, Netbeans IDE, Anaconda.
 - Operating Systems: Windows Server 2016, Linux/Unix.
 - Version Control: GitHub, GitLab, Git.
+- SDLC Frameworks: Scrum, Jira
 
 - # Projects
 - Baiju: An e-commerce website that sells fashion items to all genders and ages. Processes orders, accepts payments, and manage shipping.
