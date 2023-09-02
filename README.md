@@ -6,7 +6,7 @@ I am a passionate and dedicated software developer with experience in various pr
 - Programming Languages: Java, C, C#, PHP, JavaScript, TypeScript, Python, R, HTML, CSS, XML.
 - Frameworks: ExpressJS, AngularJS, NodeJS, and Bootstrap.
 - Databases: MySQL, Cloud Firestore, Oracle.
-- Cloud Services: Microsoft Azure, Amazon Web Services, Google Firebase.
+- Cloud Services: Microsoft Azure, Amazon Web Services, Google Firebase, Google Cloud Platform.
 - Tools: Docker, Visual Studio, Visual Studio Code, Netbeans IDE, Anaconda.
 - Operating Systems: Windows Server 2016, Linux/Unix.
 - Version Control: GitHub, GitLab, Git.
