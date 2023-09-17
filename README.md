@@ -3,7 +3,7 @@
 I am a passionate and dedicated software developer with experience in various programming languages and technologies. I have a Bachelor's degree in Computing with a focus on Cloud Computing. My coursework and projects have given me a strong foundation in areas such as concurrent and distributed programming, mobile development, software engineering, and more. Currently, I am pursuing a Master of Science in Computer Science with a major in Artificial Intelligence.
 
 - # Skills
-- Programming Languages: Java, C, C#, PHP, JavaScript, Express, Angular, TypeScript, Python, R, HTML, CSS, XML.
+- Programming Languages: Java, C, C#, PHP, JavaScript, Express, Angular, Vue, TypeScript, Python, R, HTML, CSS, XML.
 - Frameworks: NodeJS, Bootstrap, Ionic, Maven, Ant.
 - Databases: MySQL, Cloud Firestore, Oracle.
 - Cloud Services: Microsoft Azure, Amazon Web Services, Google Firebase, Google Cloud Platform.
