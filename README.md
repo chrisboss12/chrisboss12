@@ -8,6 +8,7 @@ I am a passionate and dedicated software developer with experience in various pr
 - Databases: MySQL, Cloud Firestore, Oracle.
 - Cloud Services: Microsoft Azure, Amazon Web Services, Google Firebase, Google Cloud Platform.
 - Tools: Docker, Visual Studio, Visual Studio Code, Netbeans IDE, Anaconda.
+- Unit Testing: TDD, JUnit, Mockito
 - Operating Systems: Windows Server 2016, Linux/Unix.
 - Version Control: GitHub, GitLab, Git.
 - SDLC Frameworks: Scrum, Jira
